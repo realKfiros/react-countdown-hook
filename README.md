@@ -1,6 +1,6 @@
 # react-countdown-hook
 
-[![npm latest](https://img.shields.io/npm/v/@kfiros/react-countdown-hook?style=flat-square](https://www.npmjs.com/package/@kfiros/react-countdown-hook)]  
+[![npm latest](https://img.shields.io/npm/v/@kfiros/react-countdown-hook?style=flat-square)](https://www.npmjs.com/package/@kfiros/react-countdown-hook)  
 A React hook that gets a date object and returns a countdown to that date.
 
 ## Install
