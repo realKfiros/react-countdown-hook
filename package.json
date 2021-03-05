@@ -1,5 +1,5 @@
 {
-  "name": "react-countdown-hook",
+  "name": "@kfiros/react-countdown-hook",
   "version": "1.0.0",
   "description": "React hook that gets a date object and returns the countdown to that date",
   "main": "index.js",
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/realKfiros/react-countdown-hook/issues"
   },
-  "homepage": "https://github.com/realKfiros/react-countdown-hook#readme"
+  "homepage": "https://github.com/realKfiros/react-countdown-hook#readme",
+  "dependencies": {
+    "date-fns": "^2.19.0",
+    "react": "^17.0.1"
+  },
+  "peerDependencies": {
+    "date-fns": ">= 2.13.0",
+    "react": ">= 16.8.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
